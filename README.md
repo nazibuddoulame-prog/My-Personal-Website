@@ -22,7 +22,8 @@ Static files are written to `out/`.
 ## Deploy
 
 Every push to `main` builds the site and publishes it to GitHub Pages
-(`.github/workflows/deploy.yml`). In the repo settings, set **Pages → Source** to **GitHub Actions**.
+(`.github/workflows/deploy.yml`) at https://nazibuddoulame-prog.github.io/My-Personal-Website/.
+One-time setup: in the repo settings, set **Pages → Source** to **GitHub Actions**.
 
 ## Structure
 
